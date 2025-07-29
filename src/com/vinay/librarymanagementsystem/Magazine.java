@@ -1,5 +1,5 @@
 package com.vinay.librarymanagementsystem;
-
+//
 public class Magazine extends LibraryItem {
     private int issueNumber;
 
