@@ -1,4 +1,4 @@
-# 📚 Library Management System (Java CLI)
+# 📚 Library Management System (Java)
 
 A student-level Java console application designed to manage books and library members, showcasing **OOP principles**, file-based data storage, and menu-driven interaction.
 
